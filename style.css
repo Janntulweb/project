@@ -1,0 +1,40 @@
+h1{
+    color: #9e23ab;
+    text-align: center;
+    text-decoration:underline;
+}
+h2{
+    color: rgb(11, 58, 15);
+    font-weight: 70
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: rgb(57, 13, 49);
+    font-weight: 600;
+}
+.left{
+    width: 45%;
+    float: left;
+    font-style: italic;
+    font-size: medium;
+    margin-left: 15px;
+    margin-right: 1px;
+    color: hsl(313deg 81% 45%);
+    padding: 5px;
+    border-style: double;
+    padding: 5px;
+}
+.right{
+        margin-left: 50px;
+        margin-right: 4px;
+        font-style: oblique;
+        padding: left 5px;
+        padding: right 5px;
+        color: blue;
+        padding-block: 10px;
+        border-style: double;
+        font-size: medium;
+        width: 45%;
+        float: left;
+    }
